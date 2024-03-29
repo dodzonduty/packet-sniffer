@@ -22,5 +22,5 @@ Determination of source and destination IP addresses
 Determination of source and destination MAC addresses
 Identification of port numbers
 Compatibility with Wireshark for further analysis
-Usage
-To use the packet sniffer, simply run the provided code and specify any necessary parameters or filters. The captured packet data will be displayed, providing valuable insights into network traffic
+<h1>Usage</h1>
+To use the packet sniffer, simply clone this repo and use sudo to enable the socket server to work properly. The captured packet data will be displayed, providing valuable insights into network traffic
